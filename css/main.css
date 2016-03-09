@@ -208,6 +208,7 @@ body{
 header{
 	background:lightgray;
 	border-color:#599a68;
+	height:30px;
 }
 /*nav background on mobile */
 nav{
