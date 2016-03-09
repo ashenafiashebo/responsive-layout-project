@@ -58,6 +58,7 @@ h2{
 	font-size: 0.75em;
 	margin: 5px 0 0;
 	font-weight: bold;
+	text-align: center;
 }
 h3{
 	font-size: 0.75em;
@@ -134,7 +135,7 @@ PAGE: PORTFOLIO
 	float: left;
 	width: 45%;
 	margin: 2.5%;
-	background-color: red;
+	background-color: white;
 	color: #bdc3c7;
 }
 
