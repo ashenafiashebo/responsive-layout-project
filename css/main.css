@@ -204,9 +204,9 @@ body{
 }
 		
 
-/* green header */
+/* lightgray header */
 header{
-	background:#6ab47b;
+	background:lightgray;
 	border-color:#599a68;
 }
 /*nav background on mobile */
