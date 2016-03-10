@@ -209,7 +209,7 @@ body{
 header{
 	background:lightgray;
 	border-color:none;
-	margin: 30px;
+	background-size: 30px;
 	
 }
 /*nav background on mobile */
